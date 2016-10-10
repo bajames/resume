@@ -1,50 +1,33 @@
-Barnaby James
+# Barnaby James
 ============
 
 {bajames@gmail.com
 Twitter: @realbajames
 LinkedIn: http://www.linkedin.com/in/barnabyjames
-----------------------------
 
-Education
+## Education
 ---------
 :   **University of Toronto, 
     *BSc, Honours Physics
     *Physics / Quantum Field Theory
 
-Experience
+## Experience
 ----------
-
-
-
 ** Google - Senior Staff Software Engineer / Tech Lead Manager **
-    * September 2007 – Present (9 years 2 months)
-    * Tech Lead Manager - Managing a team of O(30) engineers 
-    * Google Assistant - natural language voice assistant
-        * 3P Developer Platform
-        * Home Automation / IFTTT Integration
-        * Android Auto Voice Integration
-        * 3P Integrations (Android, Messaging, OpenTable, Nest)
-    * Android Marshmallow Voice Interaction API
-    * 6 years on Hiring Committee + Promo committee
-    * Previously:
-      * Google Travel - Photo ranking of travel photos
-      * Sharing Infrastructure - YouTube / Google Docs / Google+
-      * Tech Lead Google Sites + Developer platform
-      * Google for Work
-      
-**Your Most Recent Work Experience:**
-
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
-
-* First item
-
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
-
-**That Other Job You Had**
+* September 2007 – Present (9 years 2 months)
+* Tech Lead Manager - Managing a team of O(30) engineers 
+* Google Assistant - natural language voice assistant
+* 3P Developer Platform
+* Home Automation / IFTTT Integration
+* Android Auto Voice Integration
+* 3P Integrations (Android, Messaging, OpenTable, Nest)
+* Android Marshmallow Voice Interaction API
+* 6 years on Hiring Committee + Promo committee
+* Previously:
+* Google Travel - Photo ranking of travel photos
+* Sharing Infrastructure - YouTube / Google Docs / Google+
+* Tech Lead Google Sites + Developer platform
+* Google for Work
 
 Extra Section, Call it Whatever You Want
 ----------------------------------------
@@ -54,11 +37,7 @@ Extra Section, Call it Whatever You Want
     * Canada
     * United Kingdom
 
-(Open)2 projects
-(Open)2 recommendations
-Pat Wibbeler
-Pat Wibbeler
-Senior Engineering Manager - Mobile Document Applications at Adobe
+(Senior Engineering Manager - Mobile Document Applications at Adobe
 Barnaby is on my short-short list. He's an amazing coder, a superb mentor and an incredible teammate. He's helpful,...View
 Joe Steele
 Joe Steele
