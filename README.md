@@ -25,16 +25,15 @@ bajames@gmail.com |  [@realbajames](http://twitter.com/realbajames) | [LinkedIn]
     * Home Automation / IFTTT Integration
     * Android Auto Voice Integration
     * 3P Integrations (Android, Messaging, OpenTable, Nest)
-    * Android Marshmallow Voice Interaction API
-    * 6 years on Hiring Committee + Promo committee
+    * Android Voice Interaction API
 * Previously:
-    * Travel - photo and attraction ranking
+    * Travel - photo and attraction ranking for [Google Destinations](https://www.google.com/destination/compare?q=usa+destinations&espv=2&biw=1436&bih=803&site=search&output=search&dest_mid=/m/09c7w0&sa=X&ved=0ahUKEwj8oeah59HPAhUW12MKHXXeB7YQ6tEBCCsoBTAA)
     * Authorization and Access control infrastructure for YouTube, Google+, Google Apps
     * Java Experiments Framework
     * Tech lead Google Sites
-    * Google For Work / Google Calendar / Gadgets
+    * Google For Work / Google Calendar / Google Gadgets
     * Hiring committee member / 150+ interviews / Promotion committee
-    * Extensive experience running large scale services
+    * Operations experience running large scale services
 
 ### Adobe Systems - Senior Computer Scientist / Tech Lead
 * September 2001 - September 2007 (6 years)
