@@ -19,16 +19,17 @@ bajames@gmail.com |  [@realbajames](http://twitter.com/realbajames) | [LinkedIn]
 ## Experience
 ### Google - Senior Staff Software Engineer / Tech Lead Manager
 * September 2007 – Present (9 years 2 months)
-* Tech Lead Manager - Managing a team of O(30) engineers 
+* Tech Lead Manager - Managing a team of O(30) engineers
 * Google Assistant - natural language voice assistant
     * 3P Developer Platform
     * Home Automation / IFTTT Integration
-    * Android Auto Voice Integration
-    * 3P Integrations (Android, Messaging, OpenTable, Nest)
-    * Android Voice Interaction API
+    * Device Integrations / Android Auto Voice
+    * 3P Integrations ([Messaging](https://www.engadget.com/2015/07/28/android-voice-commands-for-messaging-apps/), OpenTable, Nest, [Android APIs](https://developers.google.com/voice-actions/system/))
+    * Android [Voice Interaction API](https://developers.google.com/voice-actions/interaction/) ([video](https://www.youtube.com/watch?v=OW1A4XFRuyc), [talk at Ubiquity conference](https://www.youtube.com/watch?v=mgudsc-Z468))
+    * [In App Voice Search](http://android-developers.blogspot.com/2014/10/the-fastest-route-between-voice-search.html)
 * Previously:
     * Travel - photo and attraction ranking for [Google Destinations](https://www.google.com/destination/compare?q=usa+destinations&espv=2&biw=1436&bih=803&site=search&output=search&dest_mid=/m/09c7w0&sa=X&ved=0ahUKEwj8oeah59HPAhUW12MKHXXeB7YQ6tEBCCsoBTAA)
-    * Authorization and Access control infrastructure for YouTube, Google+, Google Apps
+    * Authorization and Access control infrastructure for YouTube, Google+, Google Apps sharing
     * Java Experiments Framework
     * Tech lead Google Sites
     * Google For Work / Google Calendar / Google Gadgets
@@ -37,13 +38,13 @@ bajames@gmail.com |  [@realbajames](http://twitter.com/realbajames) | [LinkedIn]
 
 ### Adobe Systems - Senior Computer Scientist / Tech Lead
 * September 2001 - September 2007 (6 years)
-* Adobe AIR 1.0 - Lead for networking / notifications / multi-monitor support
+* Adobe AIR 1.0 - Lead for networking / notifications / multi-monitor support (Top 10 Emerging Technologies of 2008 / MIT Technology Review)
 * Tech lead for Acrobat Collaboration
   * Shared Review - collaborative document review workflow using simple network file sharing
   * Synchronizer - disconnection tolerant replication agent
   * Networking support (SOAP, WSDL, RSS + ATOM, REST, ZeroConf, P2P)
 * 20% - Internal social bookmarking site used by 1000+ people in the company
-* 20% - RSS feed service (filtering, splicing, aggregation, rate limiting)
+* 20% - RSS feed service (filtering, splicing, aggregation)
 
 ### CoVia Technologies / Principle Engineer
 * April 2000 – September 2001 (1 year 6 months)
