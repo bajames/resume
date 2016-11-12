@@ -24,10 +24,10 @@ bajames@gmail.com | [LinkedIn](http://www.linkedin.com/in/barnabyjames)
 * September 2007 – Present (9 years 2 months)
 * Tech Lead Manager - Managing a team of O(30) engineers
 * Google Assistant - natural language voice assistant
-    * 3P Developer Platform
+    * Assistant 3P Developer Platform
     * Home Automation / IFTTT Integration
     * Device Integrations / Android Auto Voice
-    * 3P Integrations ([Messaging](https://www.engadget.com/2015/07/28/android-voice-commands-for-messaging-apps/), OpenTable, Nest, [Android APIs](https://developers.google.com/voice-actions/system/))
+    * 3P Integrations ([Messaging](https://www.engadget.com/2015/07/28/android-voice-commands-for-messaging-apps/), OpenTable, Nest, Uber, [Android APIs](https://developers.google.com/voice-actions/system/))
     * Android [Voice Interaction API](https://developers.google.com/voice-actions/interaction/) ([video](https://www.youtube.com/watch?v=OW1A4XFRuyc), [talk at Ubiquity conference](https://www.youtube.com/watch?v=mgudsc-Z468))
     * [In App Voice Search](http://android-developers.blogspot.com/2014/10/the-fastest-route-between-voice-search.html)
 * Previously:
@@ -80,8 +80,8 @@ bajames@gmail.com | [LinkedIn](http://www.linkedin.com/in/barnabyjames)
 
 ### Applications:
 * Intermittent connectivity tolerant replicated document collaboration workspaces / United States US 20140032500 A1
-* Destination and point of interest search(Link) / United States US 20140279261 A1
-* Document-authorized access to a shared workspace Various embodiments / United States US20160014097 A1
+* Destination and point of interest search / United States US 20140279261 A1
+* Document-authorized access to a shared workspace Various embodiments / United States US 20160014097 A1
 
 ## Citizenship:
 * United States
