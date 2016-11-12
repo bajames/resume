@@ -1,7 +1,7 @@
 # Barnaby James
 ============
 
-bajames@gmail.com |  [@realbajames](http://twitter.com/realbajames) | [LinkedIn](http://www.linkedin.com/in/barnabyjames)
+bajames@gmail.com | [LinkedIn](http://www.linkedin.com/in/barnabyjames)
 
 ## Education
 ### University of Toronto, BSc - Honours Physics
@@ -10,11 +10,14 @@ bajames@gmail.com |  [@realbajames](http://twitter.com/realbajames) | [LinkedIn]
 ## Skills
 * Managing a team of 30+ engineers
 * C++, Java, Go, JavaScript, Sawzall
-* Ranking photos by quality and topicality, statistical pattern recognition, OCR
+* Developing Natural language voice agents
+* Ranking photos by quality and topicality
+* Statistical pattern recognition, OCR
 * Android application and platform development on phones / tablet / wearables
 * Experience building scalable indexing and analysis pipelines with MapReduce in Go / C++ / Sawzall
 * Extensive development / production oncall experience for large scale distributed services
 * Extensive experience with engineering hiring and management
+* Due diligence for acquisitions
 
 ## Experience
 ### Google - Senior Staff Software Engineer / Tech Lead Manager
@@ -66,11 +69,6 @@ bajames@gmail.com |  [@realbajames](http://twitter.com/realbajames) | [LinkedIn]
 * May 1991 – September 1995 (4 years 5 months)
 * Worked on a system for applying a single SQL dialect across heterogeneous RDBMS systems (Oracle, Sybase, Teradata) including cross database joins.
 
-## Citizenship:
-* United States
-* Canada
-* United Kingdom
-
 ## Patents
 ### Issued:
 * Searching a database of selected and associated resources / United States 8,190,602
@@ -84,3 +82,8 @@ bajames@gmail.com |  [@realbajames](http://twitter.com/realbajames) | [LinkedIn]
 * Intermittent connectivity tolerant replicated document collaboration workspaces / United States US 20140032500 A1
 * Destination and point of interest search(Link) / United States US 20140279261 A1
 * Document-authorized access to a shared workspace Various embodiments / United States US20160014097 A1
+
+## Citizenship:
+* United States
+* Canada
+* United Kingdom
