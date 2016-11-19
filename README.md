@@ -7,7 +7,6 @@ bajames@gmail.com | [LinkedIn](http://www.linkedin.com/in/barnabyjames)
 
 ## Skills
 * Managing a team of 30+ engineers
-* C++, Java, Go, JavaScript, Sawzall
 * Developing Natural language voice agents
 * Ranking photos by quality and topicality
 * Statistical pattern recognition, OCR
@@ -15,6 +14,7 @@ bajames@gmail.com | [LinkedIn](http://www.linkedin.com/in/barnabyjames)
 * Experience building scalable indexing and analysis pipelines with MapReduce in Go / C++ / Sawzall
 * Extensive development / production oncall experience for large scale distributed services
 * Extensive experience with engineering hiring and management
+* Languages - C++, Java, Go, JavaScript, Sawzall
 * Due diligence for acquisitions
 
 ## Experience
@@ -22,9 +22,9 @@ bajames@gmail.com | [LinkedIn](http://www.linkedin.com/in/barnabyjames)
 * September 2007 – Present (9 years 2 months)
 * Tech Lead Manager - Managing a team of O(30) engineers
 * Google Assistant - natural language voice assistant
-    * Assistant 3P Developer Platform
-    * Home Automation / IFTTT Integration
-    * Device Integrations / Android Auto Voice
+    * TLM Assistant 3P Developer Platform ([Actions on Google](https://developers.google.com/actions/))
+    * TLM [Smart Home](https://madeby.google.com/home/features/#?filters=entertainment,answers,manage,plan,fun,home&feature=control-your-home9) / [IFTTT Integration](https://ifttt.com/google_assistant)
+    * TLM for New Device Integrations / Android Auto Voice
     * 3P Integrations ([Messaging](https://www.engadget.com/2015/07/28/android-voice-commands-for-messaging-apps/), OpenTable, Nest, Uber, [Android APIs](https://developers.google.com/voice-actions/system/))
     * Android [Voice Interaction API](https://developers.google.com/voice-actions/interaction/) ([video](https://www.youtube.com/watch?v=OW1A4XFRuyc), [talk at Ubiquity conference](https://www.youtube.com/watch?v=mgudsc-Z468))
     * [In App Voice Search](http://android-developers.blogspot.com/2014/10/the-fastest-route-between-voice-search.html)
