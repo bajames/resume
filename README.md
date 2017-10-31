@@ -18,8 +18,13 @@ bajames@gmail.com | [LinkedIn](http://www.linkedin.com/in/barnabyjames)
 * Due diligence for acquisitions
 
 ## Experience
+### X - Senior Staff Software Engineer
+* April 2017 – present (6 months)
+* Applied machine learning / computer vision
+* Early stage product development
+
 ### Google - Senior Staff Software Engineer / Tech Lead Manager
-* September 2007 – Present (9 years 2 months)
+* September 2007 – April 2017 (9.5 years)
 * Tech Lead Manager - Managing a team of O(30) engineers
 * Google Assistant - natural language voice assistant
     * TLM Assistant 3P Developer Platform ([Actions on Google](https://developers.google.com/actions/))
@@ -68,7 +73,6 @@ bajames@gmail.com | [LinkedIn](http://www.linkedin.com/in/barnabyjames)
 * Worked on a system for applying a single SQL dialect across heterogeneous RDBMS systems (Oracle, Sybase, Teradata) including cross database joins.
 
 ## Patents
-### Issued:
 * Searching a database of selected and associated resources / United States 8,190,602
 * Distributed computing document recognition and processing / United States 6,742,161
 * Method and apparatus for customizing presentation of notification lists / United States 8,244,796
@@ -77,10 +81,9 @@ bajames@gmail.com | [LinkedIn](http://www.linkedin.com/in/barnabyjames)
 * Selecting photographs for a destination / United States 9,076,079
 * Selecting photographs for a destination or point of interest / United States 9,483,495
 * Document-authorized access to a shared workspace Various embodiments / United States 9,491,150
-
-### Applications:
-* Intermittent connectivity tolerant replicated document collaboration workspaces / United States US 20140032500 A1
-* Destination and point of interest search / United States US 20140279261 A1
+* Voice action biasing system / United States 9,691,384
+* Selecting photographs for a destination or point of interest / United States 9,805,428
+* Many pending applications
 
 ## Citizenship:
 * United States
