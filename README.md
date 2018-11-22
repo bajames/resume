@@ -83,7 +83,10 @@ bajames@gmail.com | [LinkedIn](http://www.linkedin.com/in/barnabyjames)
 * Document-authorized access to a shared workspace Various embodiments / United States 9,491,150
 * Voice action biasing system / United States 9,691,384
 * Selecting photographs for a destination or point of interest / United States 9,805,428
-* Many pending applications
+* Developer voice actions system / United States 9,922,648
+* Providing voice action discoverability example for trigger term / United States 10,049,670
+* Voice action biasing system / United States 10,089,982
+* Securely executing voice actions with speaker identification and authentication input types / United States 10,127,926
 
 ## Citizenship:
 * United States
