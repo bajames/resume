@@ -6,26 +6,34 @@ bajames@gmail.com | [LinkedIn](http://www.linkedin.com/in/barnabyjames)
 * Specialization in Quantum Field Theory
 
 ## Skills
-* Managing a team of 30+ engineers
-* Developing Natural language voice agents
-* Ranking photos by quality and topicality
-* Statistical pattern recognition, OCR
-* Android application and platform development on phones / tablet / wearables
-* Experience building scalable indexing and analysis pipelines with MapReduce in Go / C++ / Sawzall
+* Managing teams up to 30+ engineers
+* Boostrapping new product development with small teams
+* Ability to ramp up in new areas quickly
+* Experience with machine intelligence:
+   * Natural language voice agents (Google Assistant / Actions on Google / Voice Search)
+   * Computer vision - object detection / pose estimation / stereo imaging
+   * Voice Recognition
+   * Optical Character Recogniton
+   * Experimental design and large scale data collection for machine learning
+   * Ranking photos by quality and topicality
+* Developer Platforms:
+   * Founded Actions on Google
+   * Android application and platform development on phones / tablet / wearables
+* Experience building scalable indexing + analysis pipelines with MapReduce in Go / C++ / Sawzall
 * Extensive development / production oncall experience for large scale distributed services
 * Extensive experience with engineering hiring and management
-* Languages - C++, Java, Go, JavaScript, Sawzall
-* Due diligence for acquisitions
+* Guidance for acquistions
+* Languages - C++, Java, Go, Python, JavaScript, Sawzall
 
 ## Experience
-### X - Senior Staff Software Engineer
+### X - Senior Staff Software Engineer / Tech Lead Manager
 * April 2017 – present (6 months)
 * Applied machine learning / computer vision
-* Early stage product development
+* Early stage product development and founding small teams
 
 ### Google - Senior Staff Software Engineer / Tech Lead Manager
 * September 2007 – April 2017 (9.5 years)
-* Tech Lead Manager - Managing a team of O(30) engineers
+* Tech Lead Manager - Managing a team of ~40 engineers
 * Google Assistant - natural language voice assistant
     * TLM Assistant 3P Developer Platform ([Actions on Google](https://developers.google.com/actions/))
     * TLM [Smart Home](https://madeby.google.com/home/features/#?filters=entertainment,answers,manage,plan,fun,home&feature=control-your-home9) / [IFTTT Integration](https://ifttt.com/google_assistant)
@@ -39,7 +47,7 @@ bajames@gmail.com | [LinkedIn](http://www.linkedin.com/in/barnabyjames)
     * Java Experiments Framework
     * Tech lead Google Sites
     * Google For Work / Google Calendar / Google Gadgets
-    * Hiring committee member / 150+ interviews / Promotion committee
+    * Hiring committee member / 300+ interviews / Promotion committee
     * Operations experience running large scale services
 
 ### Adobe Systems - Senior Computer Scientist / Tech Lead
