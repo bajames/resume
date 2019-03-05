@@ -81,8 +81,8 @@ bajames@gmail.com | [LinkedIn](http://www.linkedin.com/in/barnabyjames)
 * Worked on a system for applying a single SQL dialect across heterogeneous RDBMS systems (Oracle, Sybase, Teradata) including cross database joins.
 
 ## Patents
-* Searching a database of selected and associated resources / United States 8,190,602
 * Distributed computing document recognition and processing / United States 6,742,161
+* Searching a database of selected and associated resources / United States 8,190,602
 * Method and apparatus for customizing presentation of notification lists / United States 8,244,796
 * Document-authorized access to a shared workspace / United States 9,166,954
 * Content review with proxy comment management / United States 9,130,905
@@ -95,6 +95,7 @@ bajames@gmail.com | [LinkedIn](http://www.linkedin.com/in/barnabyjames)
 * Providing voice action discoverability example for trigger term / United States 10,049,670
 * Voice action biasing system / United States 10,089,982
 * Securely executing voice actions with speaker identification and authentication input types / United States 10,127,926
+* Generating and transmitting invocation request to appropriate third-party agent / United States 10,224,031
 
 ## Citizenship:
 * United States
