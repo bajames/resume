@@ -26,10 +26,11 @@ bajames@gmail.com | [LinkedIn](http://www.linkedin.com/in/barnabyjames)
 * Languages - C++, Java, Go, Python, JavaScript, Sawzall
 
 ## Experience
-### X - Senior Staff Software Engineer / Tech Lead Manager
-* April 2017 – present (6 months)
+### X - Principal Software Engineer / Tech Lead Manager
+* April 2017 – present
 * Applied machine learning / computer vision
-* Early stage product development and founding small teams
+* Early stage product development
+* Founding / leading early stage projects with small teams
 
 ### Google - Senior Staff Software Engineer / Tech Lead Manager
 * September 2007 – April 2017 (9.5 years)
