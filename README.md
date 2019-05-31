@@ -81,22 +81,23 @@ bajames@gmail.com | [LinkedIn](http://www.linkedin.com/in/barnabyjames)
 * May 1991 – September 1995 (4 years 5 months)
 * Worked on a system for applying a single SQL dialect across heterogeneous RDBMS systems (Oracle, Sybase, Teradata) including cross database joins.
 
-## Patents
-* Distributed computing document recognition and processing / United States 6,742,161
-* Searching a database of selected and associated resources / United States 8,190,602
-* Method and apparatus for customizing presentation of notification lists / United States 8,244,796
-* Document-authorized access to a shared workspace / United States 9,166,954
-* Content review with proxy comment management / United States 9,130,905
-* Selecting photographs for a destination / United States 9,076,079
-* Selecting photographs for a destination or point of interest / United States 9,483,495
-* Document-authorized access to a shared workspace Various embodiments / United States 9,491,150
-* Voice action biasing system / United States 9,691,384
-* Selecting photographs for a destination or point of interest / United States 9,805,428
-* Developer voice actions system / United States 9,922,648
-* Providing voice action discoverability example for trigger term / United States 10,049,670
-* Voice action biasing system / United States 10,089,982
-* Securely executing voice actions with speaker identification and authentication input types / United States 10,127,926
+## 16 Issued US Patents
+* Task initiation using long-tail voice commands by weighting strength of association of the tasks and their respective commands based on user feedback / United States 10,297,254
 * Generating and transmitting invocation request to appropriate third-party agent / United States 10,224,031
+* Securely executing voice actions with speaker identification and authentication input types / United States 10,127,926
+* Voice action biasing system / United States 10,089,982
+* Providing voice action discoverability example for trigger term / United States 10,049,670
+* Developer voice actions system / United States 9,922,648
+* Selecting photographs for a destination or point of interest / United States 9,805,428
+* Voice action biasing system / United States 9,691,384
+* Document-authorized access to a shared workspace Various embodiments / United States 9,491,150
+* Selecting photographs for a destination or point of interest / United States 9,483,495
+* Selecting photographs for a destination / United States 9,076,079
+* Content review with proxy comment management / United States 9,130,905
+* Document-authorized access to a shared workspace / United States 9,166,954
+* Method and apparatus for customizing presentation of notification lists / United States 8,244,796
+* Searching a database of selected and associated resources / United States 8,190,602
+* Distributed computing document recognition and processing / United States 6,742,161
 
 ## Citizenship:
 * United States
