@@ -7,7 +7,7 @@ bajames@gmail.com | [LinkedIn](http://www.linkedin.com/in/barnabyjames)
 
 ## Skills
 * Managing teams up to 30+ engineers
-* Boostrapping new product development with small teams
+* Boostrapping new products / product areas with small teams
 * Ability to ramp up in new areas quickly
 * Experience with machine intelligence:
    * Natural language voice agents (Google Assistant / Actions on Google / Voice Search)
@@ -28,7 +28,7 @@ bajames@gmail.com | [LinkedIn](http://www.linkedin.com/in/barnabyjames)
 ## Experience
 ### X - Principal Software Engineer / Tech Lead Manager
 * April 2017 – present
-* Applied machine learning / computer vision
+* Applied machine learning / computer vision to solve real world problems
 * Early stage product development
 * Founding / leading early stage projects with small teams
 
