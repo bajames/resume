@@ -82,6 +82,7 @@ bajames@gmail.com | [LinkedIn](http://www.linkedin.com/in/barnabyjames)
 * Worked on a system for applying a single SQL dialect across heterogeneous RDBMS systems (Oracle, Sybase, Teradata) including cross database joins.
 
 ## 16 Issued US Patents
+* Task initiation using sensor dependent context long-tail voice commands / United States 10,490,190
 * Task initiation using long-tail voice commands by weighting strength of association of the tasks and their respective commands based on user feedback / United States 10,297,254
 * Generating and transmitting invocation request to appropriate third-party agent / United States 10,224,031
 * Securely executing voice actions with speaker identification and authentication input types / United States 10,127,926
