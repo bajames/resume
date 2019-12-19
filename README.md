@@ -26,9 +26,9 @@ bajames@gmail.com | [LinkedIn](http://www.linkedin.com/in/barnabyjames)
 * Languages - C++, Java, Go, Python, JavaScript, Sawzall
 
 ## Experience
-### X - Principal Software Engineer / Tech Lead Manager
+### X - Principal Software Engineer / X Project Founder + Tech Lead Manager
 * April 2017 – present
-* Applied machine learning / computer vision to solve real world problems
+* Founder + Tech Lead Manager for Applied machine learning / computer vision project to solve a real world problem
 * Early stage product development
 * Founding / leading early stage projects with small teams
 
@@ -82,6 +82,7 @@ bajames@gmail.com | [LinkedIn](http://www.linkedin.com/in/barnabyjames)
 * Worked on a system for applying a single SQL dialect across heterogeneous RDBMS systems (Oracle, Sybase, Teradata) including cross database joins.
 
 ## 17 Issued US Patents
+* Selecting photographs for a destination or point of interest / United States 10,510,129
 * Task initiation using sensor dependent context long-tail voice commands / United States 10,490,190
 * Task initiation using long-tail voice commands by weighting strength of association of the tasks and their respective commands based on user feedback / United States 10,297,254
 * Generating and transmitting invocation request to appropriate third-party agent / United States 10,224,031
